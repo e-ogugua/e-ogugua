@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Chukwuka Emmanuel Ogugua
 
-<!--
-**e-ogugua/e-ogugua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | Entrepreneur | IT + Construction + Farming  
+📍 Based in Enugu, Nigeria | Open to remote freelance and contract jobs
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Backend**: Node.js, Express  
+- **Database**: MongoDB  
+- **Others**: Git, GitHub, FreeCodeCamp Projects
+
+---
+
+### 🚧 Current Projects
+- **🎞 Video Compilation Web App** – [FreeCodeCamp Challenge]
+- Building practical full-stack apps to sharpen skills and earn online
+
+---
+
+### 💼 Founder @ CEOTR Ltd & PoshPOULE Farms  
+- Managing projects in construction, agriculture & IT  
+- Now integrating software to grow the businesses
+
+---
+
+### 🌍 Let's Connect
+- 📧 Email: e.ogugua.dev@gmail.com 
+- 💼 LinkedIn: *(add soon)*
+- 🌐 Portfolio Website: *(coming soon)*
+
+---
+
+> “Code with purpose. Build with impact. Earn with excellence.”
