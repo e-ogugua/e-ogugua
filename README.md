@@ -9,6 +9,12 @@ Welcome to my GitHub! I’m a passionate Full Stack Developer based in Nigeria. 
 - **[My First Portfolio Project](https://e-ogugua.github.io/my-first-portfolio-project/)**  
   A simple landing page built with HTML, CSS, and JavaScript — my first deployment on GitHub Pages.
 
+### 🚀 Responsive Business Site
+
+Live Preview 👉 [Click here](https://e-ogugua.github.io/responsive-business-site/)  
+Repo 👉 [View Code](https://github.com/e-ogugua/responsive-business-site)
+
+A clean, responsive business landing page built with HTML & CSS. Fully responsive across mobile and desktop, includes services, about section, and hero CTA.
 ---
 
 ## 🚀 About Me
