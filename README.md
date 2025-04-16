@@ -1,23 +1,23 @@
-# 👋 Hi, I'm Chukwuka Emmanuel Ogugua
+# Hi, I'm Chukwuka Emmanuel Ogugua
 
-💻 Full Stack Developer | Entrepreneur | IT + Construction + Farming  
-📍 Based in Enugu, Nigeria | Open to remote freelance and contract jobs
-
----
-
-### 🔧 Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript, React  
-- **Backend**: Node.js, Express  
-- **Database**: MongoDB  
-- **Others**: Git, GitHub, FreeCodeCamp Projects
+Welcome to my GitHub! I’m a passionate Full Stack Developer based in Nigeria. Currently refreshing my stack, building real-world projects, and stepping into the global dev world.
 
 ---
 
-### 🚧 Current Projects
-- **🎞 Video Compilation Web App** – [FreeCodeCamp Challenge]
-- Building practical full-stack apps to sharpen skills and earn online
+## 🔥 Live Projects
 
+- **[My First Portfolio Project](https://e-ogugua.github.io/my-first-portfolio-project/)**  
+  A simple landing page built with HTML, CSS, and JavaScript — my first deployment on GitHub Pages.
+
+---
+
+## 🚀 About Me
+
+- Learning Full Stack Dev @ FreeCodeCamp
+- Founder of [PoshPOULE Farms Ltd](#)
+- Building **real-world IT and business solutions** from Nigeria to the world.
+
+Let’s connect and collaborate!
 ---
 
 ### 💼 Founder @ CEOTR Ltd & PoshPOULE Farms  
