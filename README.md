@@ -10,6 +10,7 @@ I’m building the EmmanuelOS ecosystem — a modular personal digital OS that c
   - Live: https://emmdra-empire.vercel.app/
 - EmmanuelOS — Application portfolio dashboard
   - Repo: https://github.com/e-ogugua/emmanuelos
+  - Live: https://emmanuelos.vercel.app/
 - PoshPOULE Farms Ltd — Agri ERP and e‑commerce suite
   - Repo: https://github.com/e-ogugua/PoshPOULE-Farms-suite
   - Live: https://poshpoule-farms.vercel.app
@@ -22,11 +23,12 @@ I’m building the EmmanuelOS ecosystem — a modular personal digital OS that c
 TypeScript. React. Next.js. Node.js. Prisma. PostgreSQL. Tailwind. Vercel. Playwright. Vitest/Jest. I value straightforward architectures, dependable deployments, and maintainable code.
 
 ## Entrepreneurship & Vision
-10k Apps Journey — an execution path to build and productize a portfolio of focused tools, stitched together by EmmanuelOS. Less noise, more utility. Consistent improvement.
+1k Apps Journey — an execution path to build and productize a portfolio of focused tools, stitched together by EmmanuelOS. Less noise, more utility. Consistent improvement.
 
 ## Links & Contact
 - Portfolio: https://ceodev.vercel.app
 - GitHub: https://github.com/e-ogugua
 - Email: emmachuka@gmail.com
-- LinkedIn: https://linkedin.com/in/emmanuel-ogugua
+- LinkedIn: https://www.linkedin.com/in/emmanuelogugua/
+- X (twitter): https://x.com/emmachuka
 
